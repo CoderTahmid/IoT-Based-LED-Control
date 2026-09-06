@@ -41,6 +41,8 @@ This enables real-time wireless control of an LED from anywhere with an internet
 
 ## 🔌 Circuit Connection
 
+![Circuit Diagram](Circuit_Diagram.png)
+
 | Component | ESP32 Pin |
 |------------|------------|
 | LED Positive (+) | GPIO 23 |
