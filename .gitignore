@@ -1,0 +1,15 @@
+# Environment & Secrets
+.env
+*.env
+secrets.h
+main/secrets.h
+
+# Arduino & Build Artifacts
+*.hex
+*.bin
+*.elf
+.vscode/
+.idea/
+*.swp
+*~
+
